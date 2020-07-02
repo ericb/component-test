@@ -1,0 +1,11 @@
+.log-view {
+  max-height: 250px;
+  max-width: 500px;
+  height: 250px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  background-color: #2b2b2b;
+  color: #fff;
+  padding: 15px 30px;
+}

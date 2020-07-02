@@ -1,0 +1,9 @@
+textarea {
+  border: 1px solid #ccc;    
+  border-radius: 3px;
+  max-width: 550px;
+  height: 25px;
+  max-height: 400px;
+  width: 560px;
+  padding: 5px;
+}
